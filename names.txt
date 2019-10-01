@@ -1,6 +1,2 @@
 boss,rzhao67,Zhao,Ruixuan
-<<<<<<< HEAD
 employee,lzhu88,Zhu,Lingfeng
-=======
-
->>>>>>> test
